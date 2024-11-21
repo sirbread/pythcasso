@@ -13,7 +13,7 @@ pip install -r requirements.txt
 ```
 2. Run `pythcasso.py`.
 3. Follow on-screen instructions.
-4. Wait ~1 (dependent on image size) for paint to fully "paint" the image.
+4. Wait ~1 hour (dependent on image size) for paint to fully "paint" the image.
 5. Marvel at the creation. :)
 
 # Tips
