@@ -3,8 +3,8 @@ import pygetwindow as gw
 from math import floor
 from random import randint, random
 from PIL import Image
-#
-path = "C:\\Users\\Girish Verma\\Downloads\\Untitled.png"
+
+path = "CHNAGEME"
 img = Image.open(path)
 
 canvasOffset = (5, 144)
