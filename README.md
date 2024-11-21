@@ -13,8 +13,11 @@ pip install -r requirements.txt
 ```
 2. Run `pythcasso.py`.
 3. Follow on-screen instructions.
-4. Wait ~1 hour (dependent on image size) for paint to fully "paint" the image.
+4. Wait ~3 hours (dependent on image size) for paint to fully "paint" the image, you can leave it on while you're at work/school on your PC.
 5. Marvel at the creation. :)
+
+# Important
+Not all screens are the same resolution, so you may need to tweak the cursor's travel between the RGB values. This is optimized for 1920x1080 displays. 
 
 # Tips
 1. Use the "thick paintbrush" brush for landscapes/paintings at size 2.
